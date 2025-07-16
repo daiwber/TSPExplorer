@@ -2,9 +2,10 @@
 
 TSPSolver 是一个用于解决旅行商问题（Traveling Salesman Problem, TSP）的Python工具。它结合了暴力法和Christofides近似算法，能够高效地为不同规模的数据集找到最优或近似最优的路径。
 
-![题目描述图1](./images/first_image.jpg "题目描述图1")
-
-![题目描述图2](./images/second_image.jpg "题目描述图2")
+<div align="center">
+  <img src="./images/first_image.png" alt="题目描述图1" width="400">
+  <img src="./images/second_image.png" alt="题目描述图2" width="300">
+</div>
 
 ## 功能特点
 
